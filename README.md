@@ -5,6 +5,8 @@
 Workforce Management API
 A Spring Boot application for managing tasks and workforce assignments.
 Project Structure
+
+
 src/main/java/com/yourcompany/workforcemgmt/
 ├── WorkforcemgmtApplication.java
 ├── controller/
@@ -29,6 +31,10 @@ src/main/java/com/yourcompany/workforcemgmt/
 │   └── TaskCommentDto.java
 └── mapper/
     └── TaskMapper.java
+
+
+
+
 Features
 Bug Fixes Implemented
 
